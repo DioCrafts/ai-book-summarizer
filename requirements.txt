@@ -1,0 +1,5 @@
+pydantic==2.10.4
+openai==1.58.1
+PyMuPDF==1.25.1
+termcolor==2.5.0
+
