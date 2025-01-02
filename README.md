@@ -61,7 +61,7 @@ $ python summarizer.py
 ## Example Usage
 
 ### Input
-Place a PDF named `software-architecture.pdf` in the project root.
+Place a PDF named `meditations.pdf` in the project root.
 
 ### Command
 ```bash
@@ -72,7 +72,7 @@ $ python summarizer.py
 ```
 book_analysis/
 ├── knowledge_bases/
-│   └── software-architecture_knowledge.json
+│   └── meditations_knowledge.json
 ├── summaries/
 │   ├── part-i-overview/
 │   │   ├── 00-readme.md
@@ -80,7 +80,7 @@ book_analysis/
 │   │   ├── 02-scalability.md
 │   │   └── ...
 ├── pdfs/
-│   └── software-architecture.pdf
+│   └── meditations.pdf
 ```
 
 ---
