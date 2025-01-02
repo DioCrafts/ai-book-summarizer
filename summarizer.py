@@ -13,7 +13,7 @@ from openai import OpenAI
 # ========================
 # Configuración
 # ========================
-PDF_NAME = "software-architecture.pdf"
+PDF_NAME = "meditations.pdf"
 
 BASE_DIR = Path("book_analysis")
 PDF_DIR = BASE_DIR / "pdfs"
